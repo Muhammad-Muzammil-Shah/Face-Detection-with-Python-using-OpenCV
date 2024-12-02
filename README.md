@@ -67,10 +67,4 @@ Thankfully, OpenCV includes **pre-trained models** for face detection, eliminati
 
 ---
 
-## Getting Started
 
-To follow along with this tutorial, you’ll need:
-
-1. A Python environment set up with OpenCV installed:
-   ```bash
-   pip install opencv-python
